@@ -1,0 +1,44 @@
+body{
+  display: block;
+  min-width: 100px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  position: relative;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+
+.head{
+  background-color: #C2185B;
+  margin: 0;
+  padding: 1rem;
+}
+
+.head__title{
+  color: #FFFFFF;
+  font-weight: 100;
+  text-align: center;
+}
+.paragraph{
+  background-color: #E91E63;
+  margin: 0;
+  padding: 1rem;
+}
+.post{
+  background-color: #FFFFFF;
+  border-radius: 5px;
+}
+
+.post__title{
+  font-weight: 100;
+  margin: 0;
+  padding: 1.5rem;
+}
+
+.post__paragraph{
+  padding: 1.5rem;
+  padding-top: 0;
+  padding-bottom: 3rem;
+  margin: 0;
+}
